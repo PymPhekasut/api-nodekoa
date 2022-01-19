@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 30,
+        "location": "Sydney"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "age": 40,
+        "location": "Melbourne"
+    },
+    {
+        "id": 3,
+        "name": "James",
+        "age": 20,
+        "location": "Adelaide"
+    },
+    {
+        "id": 4,
+        "name": "M. Arbeloa",
+        "age": 27,
+        "location": "Spain"
+    },
+    {
+        "id": 5,
+        "name": "asdad",
+        "age": 27,
+        "location": "Aus"
+    }
+]
